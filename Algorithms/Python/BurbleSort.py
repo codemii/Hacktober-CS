@@ -1,4 +1,4 @@
-def bubble_sort(arr):
+def burble_sort(arr):
     n = len(arr)
 
     for i in range(n):
